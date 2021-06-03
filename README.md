@@ -1,2 +1,2 @@
 # Untar_Banking
- Repositroy ini adalah tugas akhir Mobile Programming
+ Repository ini adalah tugas akhir Mobile Programming
